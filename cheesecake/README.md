@@ -18,9 +18,9 @@ Ingredients
 Topping ingredients
 -------------------
 
-* 3 ounces of milk chocolate
-* 2 ounces of dark chocolate
-* 5 ounces of whipping cream
+* 2 ounces of milk chocolate
+* 4 ounces of dark chocolate
+* 4 ounces of whipping cream
 * shredded coconut
 
 Procedure
