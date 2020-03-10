@@ -14,3 +14,10 @@ cookies etc. This is the place where I keep my notes, trying to make them
 accurate and reproducible. Hopefully one day this will become a complete
 cookbook :)
 
+How to use this
+---------------
+
+* each directory is a separate recipe
+* the official version of a recipe is in `README.md`
+* experiment results and comments are in `notes.md`
+
