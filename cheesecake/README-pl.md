@@ -29,7 +29,9 @@ Przygotowanie
 1. Dokładnie oddzielić żółtka od białek.
 
 1. Żółtka utrzeć z cukrem i cukrem waniliowym na puszystą masę, dodać tłuszcz,
-   ucierać, następnie budyń (w proszku), ser (po 500 g) oraz śmietanę.  Uwaga:
+   ucierać.
+
+1. Dodać budyń (w proszku), ser oraz śmietanę; zmiksować.  Uwaga:
    zbyt długie miksowanie może sprawić, że sernik potem opadnie.
 
 1. Z białek ubić sztywną pianę, dodać do masy serowej i delikatnie wymieszać
