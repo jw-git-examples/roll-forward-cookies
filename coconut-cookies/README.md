@@ -1,8 +1,10 @@
-# Rice and coconut cookies
+Rice and coconut cookies
+========================
 
 _original recipe by Asia Czerwińska_
 
-## Ingredients
+Ingredients
+-----------
 
 * 160 g of rice gruel (not flavored!)
 * 50 g of coconut grains
@@ -12,7 +14,8 @@ _original recipe by Asia Czerwińska_
 * 1 cube of butter (200 g)
 * 3 medium eggs (about 180 g)
 
-## Steps
+Steps
+-----
 
 * mix all dry ingredients
 * add chopped butter and eggs, knead
