@@ -10,9 +10,9 @@ Ingredients
 * 50 g of shredded coconut
 * 1 flat teaspoon of baking powder
 * 1 vanilla sugar (15 g)
-* 1 cup of sugar (220 g)
-* 1 cube of butter (200 g)
-* 3 medium eggs (about 180 g)
+* ¾ cup of sugar (165 g)
+* 1 cube of margarine (200 g)
+* 1 large banana (about 150 g)
 
 Steps
 -----
